@@ -9,7 +9,6 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Utilities" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="ID.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
@@ -17,9 +16,20 @@
             </e>
           </e>
         </e>
-        <e p="ObjectInfo.cs" t="Include" />
-        <e p="ObjectProp.cs" t="Include" />
+        <e p="ObjectBasic" t="Include">
+          <e p="ID.cs" t="Include" />
+          <e p="ObjectProp.cs" t="Include" />
+        </e>
+        <e p="ObjectWigets" t="Include" />
+        <e p="Tookit" t="Include">
+          <e p="ObjectIO.cs" t="Include" />
+          <e p="Toolkit.cs" t="Include" />
+        </e>
+        <e p="UIWigets" t="Include">
+          <e p="RichText.cs" t="Include" />
+        </e>
         <e p="Utilities.csproj" t="IncludeRecursive" />
+        <e p="Valve.Newtonsoft.Json.dll" t="Include" />
       </e>
     </e>
   </component>
