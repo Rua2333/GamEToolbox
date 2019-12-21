@@ -17,4 +17,4 @@
 
 > To get start with this toolbox, please check:  / 开始使用请浏览:  
 
- [![EnglishDoc](https://img.shields.io/badge/GetStart-EnglishDoc-blue)]()  [![开始使用-简体中文](https://img.shields.io/badge/开始使用-简体中文-red)]()
+ [![EnglishDoc](https://img.shields.io/badge/GetStart-EnglishDoc-blue)](https://github.com/sanyuankexie/GamEToolbox/blob/master/Documentation/EnglishDoc.md)  [![开始使用-简体中文](https://img.shields.io/badge/开始使用-简体中文-red)](https://github.com/sanyuankexie/GamEToolbox/blob/master/Documentation/ChineseDoc.md)
