@@ -48,3 +48,15 @@ GamEToolbox will include these function in the near future / GamEToolbox将会�
 ```
 [![Valve.Newtonsoft.Json](https://img.shields.io/badge/JsonSerilizerDLL-Valve.Newtonsoft.Json-yellow)](https://github.com/ValveSoftware/Moondust/raw/master/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll)  
 ![UnityEngine](https://img.shields.io/badge/UnityDepends-UnityEngine-green)
+
+---
+
+> Contributing
+
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/VisualDust">
+        <img src="https://avatars0.githubusercontent.com/u/33346934?s=460&v=4" width="100px;" alt="briandennis"/><br /><sub><b>VisualDust</b></sub></a><br /><a href="https://github.com/sanyuankexie/GamEToolbox/commits?author=visualDust" title="Code">💻</a> <a href="https://github.com/sanyuankexie/GamEToolbox/commits?author=visualDust" title="Documentation">📝</a> <a href="#infra-briandennis" title="Projecting">🎬</a> <a href="#review-visualDust" title="Reviewed Pull Requests">🎤</a></td>
+  </tr>
+</table>
