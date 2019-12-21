@@ -3,14 +3,15 @@ using System.Collections.Generic;
 
 namespace Utilities
 {
-    public class ID
+    public class Id
     {
-        private Guid _guid = Guid.NewGuid();
+        Guid _guid;
         DateTime _dateTime = DateTime.Now;
-        private Object _generator;
+        Object _generator;
 
-        public ID(Object obj)
+        public Id(Object obj, Guid? guid = null)
         {
+            _guid = guid ?? Guid.NewGuid();
             this._generator = obj;
         }
 
