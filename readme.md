@@ -54,9 +54,15 @@ GamEToolbox will include these function in the near future / GamEToolbox将会�
 > Contributing
 
 <table>
-  <tr>
+  <tbody><tr>
     <td align="center">
         <a href="https://github.com/VisualDust">
         <img src="https://avatars0.githubusercontent.com/u/33346934?s=460&v=4" width="100px;" alt="briandennis"/><br /><sub><b>VisualDust</b></sub></a><br /><a href="https://github.com/sanyuankexie/GamEToolbox/commits?author=visualDust" title="Code">💻</a> <a href="https://github.com/sanyuankexie/GamEToolbox/commits?author=visualDust" title="Documentation">📝</a> <a href="#infra-briandennis" title="Projecting">🎬</a> <a href="#review-visualDust" title="Reviewed Pull Requests">🎤</a></td>
-  </tr>
+  </tr></tbody>
 </table>
+
+---
+
+[![Projected by VisualDust](https://img.shields.io/badge/Projected_by-VisualDust-red)](https://github.com/VisualDust)
+[![Assigned to Game projecting group](https://img.shields.io/badge/Assigned_to-Game_projecting_group-orange)](https://github.com/orgs/sanyuankexie/teams/gameprojecting)  
+
