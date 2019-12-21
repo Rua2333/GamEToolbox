@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Akasaki\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Akasaki\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_GamEToolbox.-1444762327.00" t="ExcludeRecursive" />
+    <e p="D:\WorkSpace\git\GamEToolbox" t="IncludeFlat">
+      <e p="GamEToolbox.sln" t="IncludeFlat" />
+      <e p="Generator" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Utilities" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ID.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Utilities.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ObjectInfo.cs" t="Include" />
+        <e p="ObjectProp.cs" t="Include" />
+        <e p="Utilities.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
