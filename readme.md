@@ -6,8 +6,10 @@
  ![License-MIT](https://img.shields.io/badge/License-MIT-blue) 
 
 ---
-
+ 
 ##  Project under constructing....../该项目依然在建设中......
+
+ > Introduction / 简介
 
 `Introduction` : GamEToolbox is some kind of "simble game developing script collection" for Unity game engineering. It contains a wide range and all kinds of scripts that you usually use, and ofcause reusable. Find what you need and just scratch it on to your game objects, or develop your own class based on it.
 
@@ -17,4 +19,32 @@
 
 > To get start with this toolbox, please check:  / 开始使用请浏览:  
 
- [![EnglishDoc](https://img.shields.io/badge/GetStart-EnglishDoc-blue)](https://github.com/sanyuankexie/GamEToolbox/blob/master/Documentation/EnglishDoc.md)  [![开始使用-简体中文](https://img.shields.io/badge/开始使用-简体中文-red)](https://github.com/sanyuankexie/GamEToolbox/blob/master/Documentation/ChineseDoc.md)
+ [![EnglishDoc](https://img.shields.io/badge/GetStart-EnglishDoc-blue)](https://github.com/sanyuankexie/GamEToolbox/blob/master/Documentation/EnglishDoc.md)  [![开始使用-简体中文](https://img.shields.io/badge/开始使用-中文文档-red)](https://github.com/sanyuankexie/GamEToolbox/blob/master/Documentation/ChineseDoc.md)
+ 
+---
+
+> Looking for something? / 嗯哼?想找点什么?
+
+```
+GamEToolbox now includes scripts below / GamEToolbox现在已经包含了这些功能  
+```
+- [X] Rich text tools for UnityUI / 为UnityUI准备的的富文本工具
+- [X] A collection of object information and auto control /  一些通用的物体脚本和自动控制脚本
+
+```
+GamEToolbox will include these function in the near future / GamEToolbox将会在不久的将来包含这些功能  
+```
+ - [ ] Signal system / 信号机制
+ - [ ] Messaging system / 消息系统
+ - [ ] Editor plugin / 编辑器插件 
+ - [ ] Even more function... / 还有很多很多...
+
+---
+
+>Dependences  
+```
+    Yellow tag means you need to download or update them from web, you can click in to the download link. / 黄色标签项意味着你需要从网络上下载或更新的依赖项,点击标签即可前往下载链接.
+    Green tag means you don't need to download nor update them from web but to import them from local files. / 绿色标签意味着这是一项本地依赖,它应该已经包含在你的项目中或你可以手动从本地包含它.
+```
+[![Valve.Newtonsoft.Json](https://img.shields.io/badge/JsonSerilizerDLL-Valve.Newtonsoft.Json-yellow)](https://github.com/ValveSoftware/Moondust/raw/master/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll)  
+![UnityEngine](https://img.shields.io/badge/UnityDepends-UnityEngine-green)

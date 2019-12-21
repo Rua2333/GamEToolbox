@@ -9,6 +9,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>C:\Program Files\Unity\Editor\2018.4.14f1\Editor\Data\PlaybackEngines\windowsstandalonesupport\Variations\win64_nondevelopment_mono\Data\Managed\UnityEngine.dll</HintPath>
+      </Reference>
       <Reference Include="Valve.Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null">
         <HintPath>Valve.Newtonsoft.Json.dll</HintPath>
       </Reference>
