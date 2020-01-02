@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utilities.com.visualdust.Tag
+namespace Utilities.com.visualdust.TagSystem
 {
     /**
      * @author VisualDust
@@ -11,7 +11,7 @@ namespace Utilities.com.visualdust.Tag
     {
         public readonly string key, value;
 
-        Tag(string key, string value)
+        public Tag(string key, string value)
         {
             this.key = key;
             this.value = value;

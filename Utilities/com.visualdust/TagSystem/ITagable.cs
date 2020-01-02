@@ -1,4 +1,4 @@
-﻿namespace Utilities.com.visualdust.Tag
+﻿namespace Utilities.com.visualdust.TagSystem
 {
     public interface ITagable
     {

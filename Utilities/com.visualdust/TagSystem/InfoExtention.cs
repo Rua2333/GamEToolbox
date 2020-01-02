@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using Utilities.com.visualdust.Global;
+using Utilities.com.visualdust.MessagingSystem;
 
-namespace Utilities.com.visualdust.Tag
+namespace Utilities.com.visualdust.TagSystem
 {
     /**
     * @author VisualDust
@@ -20,7 +21,10 @@ namespace Utilities.com.visualdust.Tag
         {
             if (!_dictionary.Remove(tagKey))
             {
-                // Overseer._messagingSystem.Publish();
+                Overseer.MessagingSystem.Publish(new SendableObject(this, "").AddTag(new Tag("Succeed", "False"))
+                    .AddTag(new Tag("ErrorInfo", "Error occured when try to remove something in dictionary"))
+                    .AddTag(new Tag("ErrorType", "ObjectNotFound")));
+                //todo add key-meaning reference to documentation
             }
         }
 
