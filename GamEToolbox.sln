@@ -6,17 +6,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Util
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectDatabase", "ObjectDatabase", "{AEEEFB0F-44E7-40EE-914C-9F2C02F08E9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorGUI", "Generator\GeneratorGUI\GeneratorGUI.csproj", "{C02B9D2A-2493-4D8C-90F9-8B2722619842}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{C02B9D2A-2493-4D8C-90F9-8B2722619842} = {5DA78737-B8D9-49CC-96A5-45519F6F7A11}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2F4B4ABC-138E-4732-B3F5-6953847E4E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2F4B4ABC-138E-4732-B3F5-6953847E4E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F4B4ABC-138E-4732-B3F5-6953847E4E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F4B4ABC-138E-4732-B3F5-6953847E4E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02B9D2A-2493-4D8C-90F9-8B2722619842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02B9D2A-2493-4D8C-90F9-8B2722619842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02B9D2A-2493-4D8C-90F9-8B2722619842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02B9D2A-2493-4D8C-90F9-8B2722619842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

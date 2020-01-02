@@ -5,7 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="ObjectWigets" />
+      <Folder Include="com.visualdust\ObjectWigets" />
     </ItemGroup>
 
     <ItemGroup>
