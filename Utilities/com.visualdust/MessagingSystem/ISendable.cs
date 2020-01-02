@@ -6,6 +6,6 @@ namespace Utilities.com.visualdust.MessagingSystem
     {
         Object GetSender();
         String GetMessage();
-        
+        Object GetAttachment();
     }
 }

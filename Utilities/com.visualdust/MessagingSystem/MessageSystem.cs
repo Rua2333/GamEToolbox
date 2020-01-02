@@ -2,6 +2,9 @@
 {
     public class MessageSystem
     {
-        
+        public void Publish(ISendable message)
+        {
+            //todo finish this function
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Utilities.com.visualdust.Global;
 
 namespace Utilities.com.visualdust.Tag
 {
@@ -19,7 +20,7 @@ namespace Utilities.com.visualdust.Tag
         {
             if (!_dictionary.Remove(tagKey))
             {
-                //todo add exception resolver
+                // Overseer._messagingSystem.Publish();
             }
         }
 
