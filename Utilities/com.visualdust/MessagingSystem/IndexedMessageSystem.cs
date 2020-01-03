@@ -3,7 +3,7 @@ using Utilities.com.visualdust.TagSystem;
 
 namespace Utilities.com.visualdust.MessagingSystem
 {
-    public class IndexedMessageSystem
+    public class IndexedMessageSystem : IMessageSystem
     {
         private List<List<IMessageResolver>> _indexedMessageResolvers = new List<List<IMessageResolver>>();
 
