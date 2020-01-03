@@ -1,6 +1,6 @@
 ﻿namespace Utilities.com.visualdust.MessagingSystem
 {
-    public class MessageSystem
+    public class MessageResolver
     {
         
     }

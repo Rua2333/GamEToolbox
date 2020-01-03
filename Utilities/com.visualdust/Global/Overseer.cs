@@ -4,6 +4,6 @@
  {
      public static class Overseer
      {
-         public static MessageSystem MessagingSystem;
+         public static IndexedMessageSystem MessagingSystem;
      }
  }
