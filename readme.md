@@ -26,16 +26,20 @@
 > Looking for something? / 嗯哼?想找点什么?
 
 ```
-GamEToolbox now includes scripts below / GamEToolbox现在已经包含了这些功能  
+GamEToolbox now includes functions below / GamEToolbox现在已经包含了这些功能  
 ```
 - [X] Rich text tools for UnityUI / 为UnityUI准备的的富文本工具
 - [X] A collection of object information and auto control /  一些通用的物体脚本和自动控制脚本
 
 ```
-GamEToolbox will include these function in the near future / GamEToolbox将会在不久的将来包含这些功能  
+Founctions under construction / 正在建设的内容
 ```
  - [ ] Signal system / 信号机制
  - [ ] Messaging system / 消息系统
+
+```
+GamEToolbox will include these function in the near future / GamEToolbox将会在不久的将来包含这些功能  
+```
  - [ ] Editor plugin / 编辑器插件 
  - [ ] Even more function... / 还有很多很多...
 
